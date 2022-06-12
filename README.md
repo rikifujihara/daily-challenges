@@ -1,1 +1,1 @@
-# daily-challenges
+# Daily Challenges
